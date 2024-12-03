@@ -1,0 +1,20 @@
+{
+  "name": "time-to-sleep",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "расчет времени сна на основе циркадных ритмов",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesyaMe/time-to-sleep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LesyaMe/time-to-sleep/issues"
+  },
+  "homepage": "https://github.com/LesyaMe/time-to-sleep#readme"
+}
